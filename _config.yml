@@ -1,7 +1,7 @@
 # Site
 name: "is-free.github.io"
 title: "is-free.github.io"
-description: "欢迎来到网站白嫖社区."
+description: "欢迎来到Github Pages网站白嫖社区."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 bd_analytics: 'https://hm.baidu.com/hm.js?1aeb94037182bb5c5ce91a59ff618083'
@@ -15,7 +15,7 @@ authors:
   developer-wgl:
     name: developer-wgl
     display_name: developer-wgl
-    gravatar: "./assets/images/logo.png"
+    gravatar: "/assets/images/logo.png"
     email: forguangliang@gmail.com
     web: https://www.wuguangliang.online
     twitter: https://twitter.com/wuguangliang
@@ -24,7 +24,7 @@ authors:
     name: John
     display_name: John    
     avatar: 'assets/images/avatar.png'
-    gravatar: "./assets/images/logo.png"
+    gravatar: "/assets/images/logo.png"
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
