@@ -4,7 +4,7 @@ title: "developer-wgl"
 description: "欢迎来到我的个人博客."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-google_analytics: 'UA-46278016-1'
+bd_analytics: 'https://hm.baidu.com/hm.js?1aeb94037182bb5c5ce91a59ff618083'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
